@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Parshakova-Yulya/Parshakova-Yulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi &#128527;
 
 ## Я Паршакова Юлия &#128162;:
 
